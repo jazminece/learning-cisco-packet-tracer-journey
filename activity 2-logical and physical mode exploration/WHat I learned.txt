@@ -1,0 +1,5 @@
+WHat I learned:
+- learning the wiring closet
+- end devices
+- how to install a backup router
+- configure a Host name
